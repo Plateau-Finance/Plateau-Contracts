@@ -1,0 +1,7 @@
+node_modules
+migrations
+truffle-config.js
+platfroms.js
+.DS_Store
+test
+config
